@@ -1,0 +1,6 @@
+E:/STM32C5/STM32C5_LSM6DSVE_Project2/STM32C5_LSM6DSVE_Project2_cmake/main.c:32:5:_write	32	static
+E:/STM32C5/STM32C5_LSM6DSVE_Project2/STM32C5_LSM6DSVE_Project2_cmake/main.c:85:6:HAL_EXTI_TriggerCallback	16	static
+E:/STM32C5/STM32C5_LSM6DSVE_Project2/STM32C5_LSM6DSVE_Project2_cmake/main.c:97:5:main	168	static
+E:/STM32C5/STM32C5_LSM6DSVE_Project2/STM32C5_LSM6DSVE_Project2_cmake/main.c:259:16:platform_write	48	static
+E:/STM32C5/STM32C5_LSM6DSVE_Project2/STM32C5_LSM6DSVE_Project2_cmake/main.c:288:16:platform_read	48	static
+E:/STM32C5/STM32C5_LSM6DSVE_Project2/STM32C5_LSM6DSVE_Project2_cmake/main.c:316:13:platform_delay	16	static
